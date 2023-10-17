@@ -1,0 +1,14 @@
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.AssemblyInfoInputs.cache
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.AssemblyInfo.cs
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.csproj.CoreCompileInputs.cache
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\bin\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.exe
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\bin\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.deps.json
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\bin\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.runtimeconfig.json
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\bin\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.dll
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\bin\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.pdb
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.dll
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\refint\Jovellano, Vincent Harley R. - CC112.dll
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.pdb
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\Jovellano, Vincent Harley R. - CC112.genruntimeconfig.cache
+C:\Users\your mom\Desktop\Jovellano, Vincent Harley R. - CC112\obj\Debug\net6.0\ref\Jovellano, Vincent Harley R. - CC112.dll
